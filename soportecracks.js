@@ -1,14 +1,14 @@
-///////CONSTANTES(NO MOVER/////////////////////
+///////LIBRERIAS/////////////////////
 const Discord = require("discord.js");
 const  client = new Discord.Client();
 
 const config = require("./config.json")
-///////////////////PRESENCIA///////////////////////////////
+///////////////////STATUS///////////////////////////////
 function presence(){
   client.user.setPresence({
       status:"dnd",
       activity: {
-        name: "bot en programación || sc/help para ver mis comandos [BETA]."
+        name: "Bot en desarrollo || sc/help para ver mis comandos [BETA]."
         
       }
     })
