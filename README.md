@@ -11,11 +11,11 @@ Unfortunately, the project was discontinued and the bot was shutted down forever
 
 2. Save the changes and optionally, you can add additional code.
 
-3. Upload the files to [Replit](https://replit.com) or your favorite hosting provider.
+3. Upload the files to [Replit](https://replit.com) or your favourite hosting provider.
 
 4. Once you have finished uploading the code, Run the program and wait until the bot says "Estoy Listo!".
 
-5. Once the bot says that, your bot will be ready ¡CONGRATULATIONS!!!
+5. Once the bot says that, your bot will be ready, Congrats!
 
 
 Enjoy the first experience of my inspirations, I'll hope this can help someone in a future, as it helped to me.
